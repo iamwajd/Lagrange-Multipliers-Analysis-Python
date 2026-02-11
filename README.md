@@ -1,4 +1,4 @@
-# Constrained Cost Minimization: A Python-Based Lagrange Analysis 🐍📐
+# Constrained Cost Minimization: A Python-Based Lagrange Analysis 📐
 
 This project applies the **Lagrange Multipliers** method to solve a nonlinear optimization problem, specifically minimizing a quadratic cost function under a single linear resource constraint.
 
